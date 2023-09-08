@@ -1,7 +1,7 @@
 # Enviando E-mails com Python e Gmail
 
-![Python Icon](![python-removebg-preview](https://github.com/Jeferson-Js/Email_com_python/assets/82729145/76441795-2431-4d59-8caa-f6c1f6ad8440))
-![Gmail Icon](![email-removebg-preview](https://github.com/Jeferson-Js/Email_com_python/assets/82729145/e09b76c8-d422-436d-8357-b6925a501d39))
+![python-removebg-preview](https://github.com/Jeferson-Js/Email_com_python/assets/82729145/76441795-2431-4d59-8caa-f6c1f6ad8440)
+![email-removebg-preview](https://github.com/Jeferson-Js/Email_com_python/assets/82729145/e09b76c8-d422-436d-8357-b6925a501d39)
 
 Este é um projeto que ensina como enviar e-mails usando Python e Gmail em 2023 de maneira descomplicada e direta. Se você deseja automatizar o envio de e-mails ou aprender a utilizar a API do Gmail com Python, este repositório é um ótimo ponto de partida.
 
@@ -26,14 +26,6 @@ Para começar a enviar e-mails com Python e Gmail, siga estas etapas simples:
 ## Contribuições
 
 Contribuições são bem-vindas! Se você encontrou um bug, tem uma ideia para melhorar o projeto ou deseja adicionar recursos adicionais, sinta-se à vontade para abrir uma [issue](link_para_issues) ou enviar um [pull request](link_para_pull_requests).
-
-## Capturas de Tela
-
-*Adicione imagens do projeto aqui*
-
-![Screenshot 1](link_para_imagem_1)
-![Screenshot 2](link_para_imagem_2)
-![Screenshot 3](link_para_imagem_3)
 
 ## Licença
 
