@@ -20,7 +20,7 @@ Este é um projeto que ensina como enviar e-mails usando Python e Gmail em 2023 
 Para começar a enviar e-mails com Python e Gmail, siga estas etapas simples:
 
 1. Clone este repositório em sua máquina local.
-2. Consulte a documentação em [link_para_documentação](link_para_documentação) para entender como configurar e usar o projeto.
+2. Consulte a documentação em [documentação oficial python](https://www.python.org/) para entender como configurar e usar o projeto.
 3. Explore os exemplos de código e projetos prontos na pasta [Exemplos](link_para_pasta_de_exemplos).
 
 ## Contribuições
